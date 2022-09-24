@@ -319,3 +319,8 @@ zigbeeManufacturer:
     manufacturer: MLI
     model: Smart Socket
     deviceProfileName: single-switch-plug
+  - id: "_TZ3000_dvn9n7mv/Switch"
+    deviceLabel: TS0011 Switch
+    manufacturer: _TZ3000_dvn9n7mv
+    model: TS0011
+    deviceProfileName: single-switch
